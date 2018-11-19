@@ -1,2 +1,2 @@
 include(T.tptp).
-thf('http://latin.omdoc.org/logics/proof_theory?S4?ax_4',type,'http://latin.omdoc.org/logics/proof_theory?S4?ax_4' : !>[P:'http://latin.omdoc.org/logics/syntax?Logic?o']: (('http://latin.omdoc.org/logics/syntax?Logic?ded' @ (('http://latin.omdoc.org/logics/syntax?MPL?⇒' @ ('http://latin.omdoc.org/logics/syntax?Necessity?□' @ P)) @ ('http://latin.omdoc.org/logics/syntax?Necessity?□' @ ('http://latin.omdoc.org/logics/syntax?Necessity?□' @ P)))))).
+thf('OMDOC/logics/proof_theory?S4?ax_4',type,'OMDOC/logics/proof_theory?S4?ax_4' : !>[P:'OMDOC/logics/syntax?Logic?o']: (('OMDOC/logics/syntax?Logic?ded' @ (('OMDOC/logics/syntax?MPL?⇒' @ ('OMDOC/logics/syntax?Necessity?□' @ P)) @ ('OMDOC/logics/syntax?Necessity?□' @ ('OMDOC/logics/syntax?Necessity?□' @ P)))))).

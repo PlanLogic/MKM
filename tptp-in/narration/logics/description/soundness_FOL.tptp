@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/soundness/DLBase.tptp).
+include(OMDOC/logics/soundness/DLBase.tptp).

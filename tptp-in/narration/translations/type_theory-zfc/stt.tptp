@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/translations/tt_zfc/STT.tptp).
+include(OMDOC/translations/tt_zfc/STT.tptp).

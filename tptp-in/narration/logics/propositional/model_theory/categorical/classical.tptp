@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/model_theory/categorical/Classical.tptp).
+include(OMDOC/logics/model_theory/categorical/Classical.tptp).

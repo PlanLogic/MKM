@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/syntax/Modalities.tptp).include(//latin.omdoc.org/logics/syntax/MultiNecessity.tptp).include(//latin.omdoc.org/logics/syntax/MultiPossibility.tptp).include(//latin.omdoc.org/logics/syntax/MML.tptp).
+include(OMDOC/logics/syntax/Modalities.tptp).include(OMDOC/logics/syntax/MultiNecessity.tptp).include(OMDOC/logics/syntax/MultiPossibility.tptp).include(OMDOC/logics/syntax/MML.tptp).

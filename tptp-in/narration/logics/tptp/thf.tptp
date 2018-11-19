@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/tptp/THF0.tptp).include(//latin.omdoc.org/logics/tptp/FirstToHigher.tptp).include(//latin.omdoc.org/logics/tptp/PTHF.tptp).
+include(OMDOC/logics/tptp/THF0.tptp).include(OMDOC/logics/tptp/FirstToHigher.tptp).include(OMDOC/logics/tptp/PTHF.tptp).

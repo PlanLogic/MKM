@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/foundations/zfc/Option.tptp).
+include(OMDOC/foundations/zfc/Option.tptp).

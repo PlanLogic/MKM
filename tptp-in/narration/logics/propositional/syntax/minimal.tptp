@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/syntax/MPL.tptp).include(//latin.omdoc.org/logics/syntax/MPL-PL.tptp).
+include(OMDOC/logics/syntax/MPL.tptp).include(OMDOC/logics/syntax/MPL-PL.tptp).

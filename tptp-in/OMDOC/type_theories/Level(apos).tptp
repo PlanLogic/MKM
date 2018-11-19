@@ -1,2 +1,2 @@
-thf('http://latin.omdoc.org/type_theories?Level\'?cl',type,'http://latin.omdoc.org/type_theories?Level\'?cl' : $tType).
-thf('http://latin.omdoc.org/type_theories?Level\'?exp',type,'http://latin.omdoc.org/type_theories?Level\'?exp' : ('http://latin.omdoc.org/type_theories?Level\'?cl' > $tType)).
+thf('OMDOC/type_theories?Level\'?cl',type,'OMDOC/type_theories?Level\'?cl' : $tType).
+thf('OMDOC/type_theories?Level\'?exp',type,'OMDOC/type_theories?Level\'?exp' : ('OMDOC/type_theories?Level\'?cl' > $tType)).

@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/syntax/PowerSorts.tptp).
+include(OMDOC/logics/syntax/PowerSorts.tptp).

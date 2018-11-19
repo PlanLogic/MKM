@@ -1,2 +1,2 @@
 include(FL0.tptp).
-thf('http://latin.omdoc.org/logics/syntax?FLminus?lim_exists',type,'http://latin.omdoc.org/logics/syntax?FLminus?lim_exists' : ('http://latin.omdoc.org/logics/syntax?DLBase?role' > 'http://latin.omdoc.org/logics/syntax?DLBase?conc')).
+thf('OMDOC/logics/syntax?FLminus?lim_exists',type,'OMDOC/logics/syntax?FLminus?lim_exists' : ('OMDOC/logics/syntax?DLBase?role' > 'OMDOC/logics/syntax?DLBase?conc')).

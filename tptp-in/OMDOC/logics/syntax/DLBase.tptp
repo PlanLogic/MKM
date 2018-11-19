@@ -1,6 +1,6 @@
-thf('http://latin.omdoc.org/logics/syntax?DLBase?atom',type,'http://latin.omdoc.org/logics/syntax?DLBase?atom' : $tType).
-thf('http://latin.omdoc.org/logics/syntax?DLBase?conc',type,'http://latin.omdoc.org/logics/syntax?DLBase?conc' : $tType).
-thf('http://latin.omdoc.org/logics/syntax?DLBase?atomic',type,'http://latin.omdoc.org/logics/syntax?DLBase?atomic' : ('http://latin.omdoc.org/logics/syntax?DLBase?atom' > 'http://latin.omdoc.org/logics/syntax?DLBase?conc')).
-thf('http://latin.omdoc.org/logics/syntax?DLBase?role',type,'http://latin.omdoc.org/logics/syntax?DLBase?role' : $tType).
-thf('http://latin.omdoc.org/logics/syntax?DLBase?subsume',type,'http://latin.omdoc.org/logics/syntax?DLBase?subsume' : ('http://latin.omdoc.org/logics/syntax?DLBase?conc' > ('http://latin.omdoc.org/logics/syntax?DLBase?conc' > $tType))).
-thf('http://latin.omdoc.org/logics/syntax?DLBase?equiv',type,'http://latin.omdoc.org/logics/syntax?DLBase?equiv' : ('http://latin.omdoc.org/logics/syntax?DLBase?conc' > ('http://latin.omdoc.org/logics/syntax?DLBase?conc' > $tType))).
+thf('OMDOC/logics/syntax?DLBase?atom',type,'OMDOC/logics/syntax?DLBase?atom' : $tType).
+thf('OMDOC/logics/syntax?DLBase?conc',type,'OMDOC/logics/syntax?DLBase?conc' : $tType).
+thf('OMDOC/logics/syntax?DLBase?atomic',type,'OMDOC/logics/syntax?DLBase?atomic' : ('OMDOC/logics/syntax?DLBase?atom' > 'OMDOC/logics/syntax?DLBase?conc')).
+thf('OMDOC/logics/syntax?DLBase?role',type,'OMDOC/logics/syntax?DLBase?role' : $tType).
+thf('OMDOC/logics/syntax?DLBase?subsume',type,'OMDOC/logics/syntax?DLBase?subsume' : ('OMDOC/logics/syntax?DLBase?conc' > ('OMDOC/logics/syntax?DLBase?conc' > $tType))).
+thf('OMDOC/logics/syntax?DLBase?equiv',type,'OMDOC/logics/syntax?DLBase?equiv' : ('OMDOC/logics/syntax?DLBase?conc' > ('OMDOC/logics/syntax?DLBase?conc' > $tType))).

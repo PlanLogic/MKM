@@ -1,6 +1,6 @@
-thf('http://latin.omdoc.org/literals?Arithmetic?num',type,'http://latin.omdoc.org/literals?Arithmetic?num' : $tType).
-thf('http://latin.omdoc.org/literals?Arithmetic?add',type,'http://latin.omdoc.org/literals?Arithmetic?add' : ('http://latin.omdoc.org/literals?Arithmetic?num' > ('http://latin.omdoc.org/literals?Arithmetic?num' > 'http://latin.omdoc.org/literals?Arithmetic?num'))).
-thf('http://latin.omdoc.org/literals?Arithmetic?sub',type,'http://latin.omdoc.org/literals?Arithmetic?sub' : ('http://latin.omdoc.org/literals?Arithmetic?num' > ('http://latin.omdoc.org/literals?Arithmetic?num' > 'http://latin.omdoc.org/literals?Arithmetic?num'))).
-thf('http://latin.omdoc.org/literals?Arithmetic?neg',type,'http://latin.omdoc.org/literals?Arithmetic?neg' : ('http://latin.omdoc.org/literals?Arithmetic?num' > 'http://latin.omdoc.org/literals?Arithmetic?num')).
-thf('http://latin.omdoc.org/literals?Arithmetic?mult',type,'http://latin.omdoc.org/literals?Arithmetic?mult' : ('http://latin.omdoc.org/literals?Arithmetic?num' > ('http://latin.omdoc.org/literals?Arithmetic?num' > 'http://latin.omdoc.org/literals?Arithmetic?num'))).
-thf('http://latin.omdoc.org/literals?Arithmetic?div',type,'http://latin.omdoc.org/literals?Arithmetic?div' : ('http://latin.omdoc.org/literals?Arithmetic?num' > ('http://latin.omdoc.org/literals?Arithmetic?num' > 'http://latin.omdoc.org/literals?Arithmetic?num'))).
+thf('OMDOC/literals?Arithmetic?num',type,'OMDOC/literals?Arithmetic?num' : $tType).
+thf('OMDOC/literals?Arithmetic?add',type,'OMDOC/literals?Arithmetic?add' : ('OMDOC/literals?Arithmetic?num' > ('OMDOC/literals?Arithmetic?num' > 'OMDOC/literals?Arithmetic?num'))).
+thf('OMDOC/literals?Arithmetic?sub',type,'OMDOC/literals?Arithmetic?sub' : ('OMDOC/literals?Arithmetic?num' > ('OMDOC/literals?Arithmetic?num' > 'OMDOC/literals?Arithmetic?num'))).
+thf('OMDOC/literals?Arithmetic?neg',type,'OMDOC/literals?Arithmetic?neg' : ('OMDOC/literals?Arithmetic?num' > 'OMDOC/literals?Arithmetic?num')).
+thf('OMDOC/literals?Arithmetic?mult',type,'OMDOC/literals?Arithmetic?mult' : ('OMDOC/literals?Arithmetic?num' > ('OMDOC/literals?Arithmetic?num' > 'OMDOC/literals?Arithmetic?num'))).
+thf('OMDOC/literals?Arithmetic?div',type,'OMDOC/literals?Arithmetic?div' : ('OMDOC/literals?Arithmetic?num' > ('OMDOC/literals?Arithmetic?num' > 'OMDOC/literals?Arithmetic?num'))).

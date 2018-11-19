@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/syntax/HOL-Base.tptp).include(//latin.omdoc.org/logics/syntax/HOL.tptp).include(//latin.omdoc.org/logics/syntax/PrawitzHOL.tptp).include(//latin.omdoc.org/logics/syntax/STTHOL.tptp).include(//latin.omdoc.org/logics/syntax/LambdaPHOL.tptp).
+include(OMDOC/logics/syntax/HOL-Base.tptp).include(OMDOC/logics/syntax/HOL.tptp).include(OMDOC/logics/syntax/PrawitzHOL.tptp).include(OMDOC/logics/syntax/STTHOL.tptp).include(OMDOC/logics/syntax/LambdaPHOL.tptp).

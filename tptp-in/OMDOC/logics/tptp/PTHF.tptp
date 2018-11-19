@@ -1,5 +1,5 @@
 include(THF0.tptp).
 
 
-thf('http://latin.omdoc.org/logics/tptp?PTHF?pff/!°',type,'http://latin.omdoc.org/logics/tptp?PTHF?pff/!°' : (('http://latin.omdoc.org/logics/tptp?PTHF?pff/[http://latin.omdoc.org/logics/tptp?Types]/$tType' > 'http://latin.omdoc.org/logics/tptp?TFF?$form') > 'http://latin.omdoc.org/logics/tptp?TFF?$form')).
-thf('http://latin.omdoc.org/logics/tptp?PTHF?pff/%3F°',type,'http://latin.omdoc.org/logics/tptp?PTHF?pff/%3F°' : (('http://latin.omdoc.org/logics/tptp?PTHF?pff/[http://latin.omdoc.org/logics/tptp?Types]/$tType' > 'http://latin.omdoc.org/logics/tptp?TFF?$form') > 'http://latin.omdoc.org/logics/tptp?TFF?$form')).
+thf('OMDOC/logics/tptp?PTHF?pff/!°',type,'OMDOC/logics/tptp?PTHF?pff/!°' : (('OMDOC/logics/tptp?PTHF?pff/[OMDOC/logics/tptp?Types]/$tType' > 'OMDOC/logics/tptp?TFF?$form') > 'OMDOC/logics/tptp?TFF?$form')).
+thf('OMDOC/logics/tptp?PTHF?pff/%3F°',type,'OMDOC/logics/tptp?PTHF?pff/%3F°' : (('OMDOC/logics/tptp?PTHF?pff/[OMDOC/logics/tptp?Types]/$tType' > 'OMDOC/logics/tptp?TFF?$form') > 'OMDOC/logics/tptp?TFF?$form')).

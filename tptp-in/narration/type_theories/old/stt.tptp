@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/type_theories/STT.tptp).
+include(OMDOC/type_theories/STT.tptp).

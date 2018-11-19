@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/math/Monotonous.tptp).include(//latin.omdoc.org/math/OrderedMonoid.tptp).
+include(OMDOC/math/Monotonous.tptp).include(OMDOC/math/OrderedMonoid.tptp).

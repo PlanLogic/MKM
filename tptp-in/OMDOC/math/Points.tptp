@@ -1,2 +1,2 @@
 include(Universe.tptp).
-thf('http://latin.omdoc.org/math?Points?points',type,'http://latin.omdoc.org/math?Points?points' : $tType).
+thf('OMDOC/math?Points?points',type,'OMDOC/math?Points?points' : $tType).

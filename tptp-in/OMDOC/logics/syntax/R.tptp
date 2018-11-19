@@ -1,8 +1,8 @@
 include(DLBase.tptp).
-thf('http://latin.omdoc.org/logics/syntax?R?refl',type,'http://latin.omdoc.org/logics/syntax?R?refl' : ('http://latin.omdoc.org/logics/syntax?DLBase?role' > $tType)).
-thf('http://latin.omdoc.org/logics/syntax?R?irrefl',type,'http://latin.omdoc.org/logics/syntax?R?irrefl' : ('http://latin.omdoc.org/logics/syntax?DLBase?role' > $tType)).
-thf('http://latin.omdoc.org/logics/syntax?R?disj',type,'http://latin.omdoc.org/logics/syntax?R?disj' : ('http://latin.omdoc.org/logics/syntax?DLBase?role' > ('http://latin.omdoc.org/logics/syntax?DLBase?role' > $tType))).
-thf('http://latin.omdoc.org/logics/syntax?R?crole',type,'http://latin.omdoc.org/logics/syntax?R?crole' : $tType).
-thf('http://latin.omdoc.org/logics/syntax?R?\'',type,'http://latin.omdoc.org/logics/syntax?R?\'' : ('http://latin.omdoc.org/logics/syntax?DLBase?role' > 'http://latin.omdoc.org/logics/syntax?R?crole')).
-thf('http://latin.omdoc.org/logics/syntax?R?comp',type,'http://latin.omdoc.org/logics/syntax?R?comp' : ('http://latin.omdoc.org/logics/syntax?R?crole' > ('http://latin.omdoc.org/logics/syntax?R?crole' > 'http://latin.omdoc.org/logics/syntax?R?crole'))).
-thf('http://latin.omdoc.org/logics/syntax?R?csub',type,'http://latin.omdoc.org/logics/syntax?R?csub' : ('http://latin.omdoc.org/logics/syntax?R?crole' > ('http://latin.omdoc.org/logics/syntax?R?crole' > $tType))).
+thf('OMDOC/logics/syntax?R?refl',type,'OMDOC/logics/syntax?R?refl' : ('OMDOC/logics/syntax?DLBase?role' > $tType)).
+thf('OMDOC/logics/syntax?R?irrefl',type,'OMDOC/logics/syntax?R?irrefl' : ('OMDOC/logics/syntax?DLBase?role' > $tType)).
+thf('OMDOC/logics/syntax?R?disj',type,'OMDOC/logics/syntax?R?disj' : ('OMDOC/logics/syntax?DLBase?role' > ('OMDOC/logics/syntax?DLBase?role' > $tType))).
+thf('OMDOC/logics/syntax?R?crole',type,'OMDOC/logics/syntax?R?crole' : $tType).
+thf('OMDOC/logics/syntax?R?\'',type,'OMDOC/logics/syntax?R?\'' : ('OMDOC/logics/syntax?DLBase?role' > 'OMDOC/logics/syntax?R?crole')).
+thf('OMDOC/logics/syntax?R?comp',type,'OMDOC/logics/syntax?R?comp' : ('OMDOC/logics/syntax?R?crole' > ('OMDOC/logics/syntax?R?crole' > 'OMDOC/logics/syntax?R?crole'))).
+thf('OMDOC/logics/syntax?R?csub',type,'OMDOC/logics/syntax?R?csub' : ('OMDOC/logics/syntax?R?crole' > ('OMDOC/logics/syntax?R?crole' > $tType))).

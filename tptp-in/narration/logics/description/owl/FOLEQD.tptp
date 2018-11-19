@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/description/owl/owl.omdoc/FOLEQD.tptp).
+include(OMDOC/logics/description/owl/owl.omdoc/FOLEQD.tptp).

@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/foundations/mizar/MizarView.tptp).include(//latin.omdoc.org/foundations/mizar/TarskiView.tptp).
+include(OMDOC/foundations/mizar/MizarView.tptp).include(OMDOC/foundations/mizar/TarskiView.tptp).

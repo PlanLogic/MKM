@@ -3,4 +3,4 @@ include(RingDivision.tptp).
 
 
 
-thf('http://latin.omdoc.org/math?Field?nontrivial',type,'http://latin.omdoc.org/math?Field?nontrivial' : ('http://latin.omdoc.org/logics/syntax?Logic?⊦' @ ('http://latin.omdoc.org/logics/syntax?NEG?not' @ (('http://latin.omdoc.org/logics/syntax?Equal?relation/rel' @ 'http://latin.omdoc.org/math?RingUnitLogic?ring/[http://latin.omdoc.org/math?PointedMagma]/point') @ 'http://latin.omdoc.org/math?RingUnitLogic?ring/mon/[http://latin.omdoc.org/math?PointedMagma]/point')))).
+thf('OMDOC/math?Field?nontrivial',type,'OMDOC/math?Field?nontrivial' : ('OMDOC/logics/syntax?Logic?⊦' @ ('OMDOC/logics/syntax?NEG?not' @ (('OMDOC/logics/syntax?Equal?relation/rel' @ 'OMDOC/math?RingUnitLogic?ring/[OMDOC/math?PointedMagma]/point') @ 'OMDOC/math?RingUnitLogic?ring/mon/[OMDOC/math?PointedMagma]/point')))).

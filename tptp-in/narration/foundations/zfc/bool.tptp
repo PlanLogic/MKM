@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/foundations/zfc/Boolean.tptp).include(//latin.omdoc.org/foundations/zfc/TNDBool.tptp).
+include(OMDOC/foundations/zfc/Boolean.tptp).include(OMDOC/foundations/zfc/TNDBool.tptp).

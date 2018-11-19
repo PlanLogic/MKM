@@ -1,2 +1,2 @@
 include(DLBase.tptp).
-thf('http://latin.omdoc.org/logics/syntax?C?neg',type,'http://latin.omdoc.org/logics/syntax?C?neg' : ('http://latin.omdoc.org/logics/syntax?DLBase?conc' > 'http://latin.omdoc.org/logics/syntax?DLBase?conc')).
+thf('OMDOC/logics/syntax?C?neg',type,'OMDOC/logics/syntax?C?neg' : ('OMDOC/logics/syntax?DLBase?conc' > 'OMDOC/logics/syntax?DLBase?conc')).

@@ -1,2 +1,2 @@
 include(../logics/syntax/FOL.tptp).
-thf('http://latin.omdoc.org/translations/ml_fol?ML-FOL?rel',type,'http://latin.omdoc.org/translations/ml_fol?ML-FOL?rel' : ('http://latin.omdoc.org/math?Universe?u' > ('http://latin.omdoc.org/math?Universe?u' > 'http://latin.omdoc.org/logics/syntax?Logic?o'))).
+thf('OMDOC/translations/ml_fol?ML-FOL?rel',type,'OMDOC/translations/ml_fol?ML-FOL?rel' : ('OMDOC/math?Universe?u' > ('OMDOC/math?Universe?u' > 'OMDOC/logics/syntax?Logic?o'))).

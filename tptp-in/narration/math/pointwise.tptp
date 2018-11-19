@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/math/Points.tptp).
+include(OMDOC/math/Points.tptp).

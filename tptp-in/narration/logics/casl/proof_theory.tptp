@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/proof_theory/CASL.tptp).
+include(OMDOC/logics/proof_theory/CASL.tptp).

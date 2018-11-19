@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/syntax/Subsorted-Sorted.tptp).
+include(OMDOC/logics/syntax/Subsorted-Sorted.tptp).

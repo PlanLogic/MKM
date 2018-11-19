@@ -1,3 +1,3 @@
 include(logics/proof_theory/InEqLogic.tptp).
 include(RelationEqLogic.tptp).
-thf('http://latin.omdoc.org/math?Irreflexive?irrefl',type,'http://latin.omdoc.org/math?Irreflexive?irrefl' : !>[X:'http://latin.omdoc.org/math?Universe?u']: (('http://latin.omdoc.org/logics/syntax?Logic?⊦' @ ('http://latin.omdoc.org/logics/syntax?NEG?not' @ (('http://latin.omdoc.org/logics/syntax?RelationLogic?rel' @ X) @ X))))).
+thf('OMDOC/math?Irreflexive?irrefl',type,'OMDOC/math?Irreflexive?irrefl' : !>[X:'OMDOC/math?Universe?u']: (('OMDOC/logics/syntax?Logic?⊦' @ ('OMDOC/logics/syntax?NEG?not' @ (('OMDOC/logics/syntax?RelationLogic?rel' @ X) @ X))))).

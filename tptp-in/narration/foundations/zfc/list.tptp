@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/foundations/zfc/Lists.tptp).include(//latin.omdoc.org/foundations/zfc/Trees.tptp).
+include(OMDOC/foundations/zfc/Lists.tptp).include(OMDOC/foundations/zfc/Trees.tptp).

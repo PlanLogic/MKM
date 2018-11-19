@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/foundations/hol/HOL.tptp).
+include(OMDOC/foundations/hol/HOL.tptp).

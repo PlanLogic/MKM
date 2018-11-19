@@ -1,2 +1,2 @@
 include(Logic.tptp).
-thf('http://latin.omdoc.org/logics/syntax?Falsity?false',type,'http://latin.omdoc.org/logics/syntax?Falsity?false' : 'http://latin.omdoc.org/logics/syntax?Logic?o').
+thf('OMDOC/logics/syntax?Falsity?false',type,'OMDOC/logics/syntax?Falsity?false' : 'OMDOC/logics/syntax?Logic?o').

@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/syntax/BaseCL.tptp).
+include(OMDOC/logics/syntax/BaseCL.tptp).

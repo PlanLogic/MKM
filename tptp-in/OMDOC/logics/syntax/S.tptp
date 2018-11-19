@@ -1,2 +1,2 @@
 include(ALC.tptp).
-thf('http://latin.omdoc.org/logics/syntax?S?trans',type,'http://latin.omdoc.org/logics/syntax?S?trans' : ('http://latin.omdoc.org/logics/syntax?DLBase?role' > $tType)).
+thf('OMDOC/logics/syntax?S?trans',type,'OMDOC/logics/syntax?S?trans' : ('OMDOC/logics/syntax?DLBase?role' > $tType)).

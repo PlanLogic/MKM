@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/foundations/interface/Interface.tptp).
+include(OMDOC/foundations/interface/Interface.tptp).

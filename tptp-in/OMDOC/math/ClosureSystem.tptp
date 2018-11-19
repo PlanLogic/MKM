@@ -1,5 +1,5 @@
 include(logics/syntax/PowerSorts.tptp).
-thf('http://latin.omdoc.org/math?ClosureSystem?X',type,'http://latin.omdoc.org/math?ClosureSystem?X' : 'http://latin.omdoc.org/logics/syntax?BaseSFOL?sorts/[http://latin.omdoc.org/type_theories?Level\']/cl').
-thf('http://latin.omdoc.org/math?ClosureSystem?cl',type,'http://latin.omdoc.org/math?ClosureSystem?cl' : ('http://latin.omdoc.org/logics/syntax?BaseSFOL?sorts/[http://latin.omdoc.org/type_theories?Level\']/exp' @ $ERROR)).
-thf('http://latin.omdoc.org/math?ClosureSystem?intersection',type,'http://latin.omdoc.org/math?ClosureSystem?intersection' : !>[Q:('http://latin.omdoc.org/logics/syntax?BaseSFOL?sorts/[http://latin.omdoc.org/type_theories?Level\']/exp' @ $ERROR)]: (($ERROR > $ERROR))).
-thf('http://latin.omdoc.org/math?ClosureSystem?full_closed',type,'http://latin.omdoc.org/math?ClosureSystem?full_closed' : $ERROR).
+thf('OMDOC/math?ClosureSystem?X',type,'OMDOC/math?ClosureSystem?X' : 'OMDOC/logics/syntax?BaseSFOL?sorts/[OMDOC/type_theories?Level\']/cl').
+thf('OMDOC/math?ClosureSystem?cl',type,'OMDOC/math?ClosureSystem?cl' : ('OMDOC/logics/syntax?BaseSFOL?sorts/[OMDOC/type_theories?Level\']/exp' @ $ERROR)).
+thf('OMDOC/math?ClosureSystem?intersection',type,'OMDOC/math?ClosureSystem?intersection' : !>[Q:('OMDOC/logics/syntax?BaseSFOL?sorts/[OMDOC/type_theories?Level\']/exp' @ $ERROR)]: (($ERROR > $ERROR))).
+thf('OMDOC/math?ClosureSystem?full_closed',type,'OMDOC/math?ClosureSystem?full_closed' : $ERROR).

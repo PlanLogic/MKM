@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/foundations/minimal/IntExt.tptp).include(//latin.omdoc.org/foundations/minimal/STTIFOLEQ.tptp).include(//latin.omdoc.org/foundations/minimal/STTIFOLEQExt.tptp).
+include(OMDOC/foundations/minimal/IntExt.tptp).include(OMDOC/foundations/minimal/STTIFOLEQ.tptp).include(OMDOC/foundations/minimal/STTIFOLEQExt.tptp).

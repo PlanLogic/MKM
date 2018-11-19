@@ -1,3 +1,3 @@
 include(Linear_SYN.tptp).
-thf('http://latin.omdoc.org/logics/syntax/focused?Sigma_SYN?a-',type,'http://latin.omdoc.org/logics/syntax/focused?Sigma_SYN?a-' : 'http://latin.omdoc.org/logics/syntax/focused?Linear_SYN?n').
-thf('http://latin.omdoc.org/logics/syntax/focused?Sigma_SYN?a+',type,'http://latin.omdoc.org/logics/syntax/focused?Sigma_SYN?a+' : 'http://latin.omdoc.org/logics/syntax/focused?Linear_SYN?p').
+thf('OMDOC/logics/syntax/focused?Sigma_SYN?a-',type,'OMDOC/logics/syntax/focused?Sigma_SYN?a-' : 'OMDOC/logics/syntax/focused?Linear_SYN?n').
+thf('OMDOC/logics/syntax/focused?Sigma_SYN?a+',type,'OMDOC/logics/syntax/focused?Sigma_SYN?a+' : 'OMDOC/logics/syntax/focused?Linear_SYN?p').

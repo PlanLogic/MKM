@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/foundations/mizar/HIDDEN.tptp).
+include(OMDOC/foundations/mizar/HIDDEN.tptp).

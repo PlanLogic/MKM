@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/math/Preorder.tptp).include(//latin.omdoc.org/math/Antisymmetric.tptp).include(//latin.omdoc.org/math/Order.tptp).include(//latin.omdoc.org/math/Top.tptp).include(//latin.omdoc.org/math/Bottom.tptp).include(//latin.omdoc.org/math/Supremum.tptp).include(//latin.omdoc.org/math/Infimum.tptp).
+include(OMDOC/math/Preorder.tptp).include(OMDOC/math/Antisymmetric.tptp).include(OMDOC/math/Order.tptp).include(OMDOC/math/Top.tptp).include(OMDOC/math/Bottom.tptp).include(OMDOC/math/Supremum.tptp).include(OMDOC/math/Infimum.tptp).

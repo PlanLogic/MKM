@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/syntax/CASLSubSorted.tptp).
+include(OMDOC/logics/syntax/CASLSubSorted.tptp).

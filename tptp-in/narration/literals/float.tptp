@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/literals/Float.tptp).
+include(OMDOC/literals/Float.tptp).

@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/foundations/lutins/IMPS.tptp).
+include(OMDOC/foundations/lutins/IMPS.tptp).

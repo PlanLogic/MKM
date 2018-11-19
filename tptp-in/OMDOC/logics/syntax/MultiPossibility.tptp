@@ -1,3 +1,3 @@
 include(Modalities.tptp).
 include(Logic.tptp).
-thf('http://latin.omdoc.org/logics/syntax?MultiPossibility?◇',type,'http://latin.omdoc.org/logics/syntax?MultiPossibility?◇' : ('http://latin.omdoc.org/logics/syntax?Modalities?modality' > ('http://latin.omdoc.org/logics/syntax?Logic?o' > 'http://latin.omdoc.org/logics/syntax?Logic?o'))).
+thf('OMDOC/logics/syntax?MultiPossibility?◇',type,'OMDOC/logics/syntax?MultiPossibility?◇' : ('OMDOC/logics/syntax?Modalities?modality' > ('OMDOC/logics/syntax?Logic?o' > 'OMDOC/logics/syntax?Logic?o'))).

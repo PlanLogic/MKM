@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/tptp/Types.tptp).include(//latin.omdoc.org/logics/tptp/TFF.tptp).include(//latin.omdoc.org/logics/tptp/PFF.tptp).
+include(OMDOC/logics/tptp/Types.tptp).include(OMDOC/logics/tptp/TFF.tptp).include(OMDOC/logics/tptp/PFF.tptp).

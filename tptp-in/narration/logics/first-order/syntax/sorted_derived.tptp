@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/syntax/SExistsUnique.tptp).include(//latin.omdoc.org/logics/syntax/SInequal.tptp).
+include(OMDOC/logics/syntax/SExistsUnique.tptp).include(OMDOC/logics/syntax/SInequal.tptp).

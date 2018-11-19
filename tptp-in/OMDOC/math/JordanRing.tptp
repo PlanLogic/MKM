@@ -2,10 +2,10 @@ include(EqUniverse.tptp).
 include(AbelianGroup.tptp).
 
 
-thf('http://latin.omdoc.org/math?JordanRing?mult/commut',type,'http://latin.omdoc.org/math?JordanRing?mult/commut' : !>[X:'http://latin.omdoc.org/math?Universe?u']: (!>[Y:'http://latin.omdoc.org/math?Universe?u']: ((('http://latin.omdoc.org/math?EqUniverse?eq/[http://latin.omdoc.org/math?Relation]/r' @ (('http://latin.omdoc.org/math?JordanRing?mult/[http://latin.omdoc.org/math?Magma]/∘' @ X) @ Y)) @ (('http://latin.omdoc.org/math?JordanRing?mult/[http://latin.omdoc.org/math?Magma]/∘' @ Y) @ X))))).
+thf('OMDOC/math?JordanRing?mult/commut',type,'OMDOC/math?JordanRing?mult/commut' : !>[X:'OMDOC/math?Universe?u']: (!>[Y:'OMDOC/math?Universe?u']: ((('OMDOC/math?EqUniverse?eq/[OMDOC/math?Relation]/r' @ (('OMDOC/math?JordanRing?mult/[OMDOC/math?Magma]/∘' @ X) @ Y)) @ (('OMDOC/math?JordanRing?mult/[OMDOC/math?Magma]/∘' @ Y) @ X))))).
 
 
 
 
 
-thf('http://latin.omdoc.org/math?JordanRing?jordan',type,'http://latin.omdoc.org/math?JordanRing?jordan' : !>[X:'http://latin.omdoc.org/math?Universe?u']: (!>[Y:'http://latin.omdoc.org/math?Universe?u']: ((('http://latin.omdoc.org/math?EqUniverse?eq/[http://latin.omdoc.org/math?Relation]/r' @ (('http://latin.omdoc.org/math?JordanRing?mult/[http://latin.omdoc.org/math?Magma]/∘' @ (('http://latin.omdoc.org/math?JordanRing?mult/[http://latin.omdoc.org/math?Magma]/∘' @ X) @ Y)) @ (('http://latin.omdoc.org/math?JordanRing?mult/[http://latin.omdoc.org/math?Magma]/∘' @ X) @ X))) @ (('http://latin.omdoc.org/math?JordanRing?mult/[http://latin.omdoc.org/math?Magma]/∘' @ X) @ (('http://latin.omdoc.org/math?JordanRing?mult/[http://latin.omdoc.org/math?Magma]/∘' @ Y) @ (('http://latin.omdoc.org/math?JordanRing?mult/[http://latin.omdoc.org/math?Magma]/∘' @ X) @ X))))))).
+thf('OMDOC/math?JordanRing?jordan',type,'OMDOC/math?JordanRing?jordan' : !>[X:'OMDOC/math?Universe?u']: (!>[Y:'OMDOC/math?Universe?u']: ((('OMDOC/math?EqUniverse?eq/[OMDOC/math?Relation]/r' @ (('OMDOC/math?JordanRing?mult/[OMDOC/math?Magma]/∘' @ (('OMDOC/math?JordanRing?mult/[OMDOC/math?Magma]/∘' @ X) @ Y)) @ (('OMDOC/math?JordanRing?mult/[OMDOC/math?Magma]/∘' @ X) @ X))) @ (('OMDOC/math?JordanRing?mult/[OMDOC/math?Magma]/∘' @ X) @ (('OMDOC/math?JordanRing?mult/[OMDOC/math?Magma]/∘' @ Y) @ (('OMDOC/math?JordanRing?mult/[OMDOC/math?Magma]/∘' @ X) @ X))))))).

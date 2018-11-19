@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/soundness/BaseSFOL.tptp).include(//latin.omdoc.org/logics/soundness/SForall.tptp).
+include(OMDOC/logics/soundness/BaseSFOL.tptp).include(OMDOC/logics/soundness/SForall.tptp).

@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/syntax/BaseSFOL.tptp).include(//latin.omdoc.org/logics/syntax/SForall.tptp).include(//latin.omdoc.org/logics/syntax/SExists.tptp).include(//latin.omdoc.org/logics/syntax/SEqual.tptp).include(//latin.omdoc.org/logics/syntax/SFOL.tptp).include(//latin.omdoc.org/logics/syntax/SFOLEQ.tptp).
+include(OMDOC/logics/syntax/BaseSFOL.tptp).include(OMDOC/logics/syntax/SForall.tptp).include(OMDOC/logics/syntax/SExists.tptp).include(OMDOC/logics/syntax/SEqual.tptp).include(OMDOC/logics/syntax/SFOL.tptp).include(OMDOC/logics/syntax/SFOLEQ.tptp).

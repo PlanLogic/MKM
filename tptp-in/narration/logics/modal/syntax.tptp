@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/syntax/Necessity.tptp).include(//latin.omdoc.org/logics/syntax/Possibility.tptp).include(//latin.omdoc.org/logics/syntax/ML.tptp).
+include(OMDOC/logics/syntax/Necessity.tptp).include(OMDOC/logics/syntax/Possibility.tptp).include(OMDOC/logics/syntax/ML.tptp).

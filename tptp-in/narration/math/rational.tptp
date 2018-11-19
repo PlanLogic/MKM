@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/math/Rat.tptp).
+include(OMDOC/math/Rat.tptp).

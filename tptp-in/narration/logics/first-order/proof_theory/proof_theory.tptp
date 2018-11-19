@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/logics/proof_theory/BaseFOL.tptp).include(//latin.omdoc.org/logics/proof_theory/Forall.tptp).include(//latin.omdoc.org/logics/proof_theory/Exists.tptp).include(//latin.omdoc.org/logics/proof_theory/Equal.tptp).include(//latin.omdoc.org/logics/proof_theory/TNDEq.tptp).
+include(OMDOC/logics/proof_theory/BaseFOL.tptp).include(OMDOC/logics/proof_theory/Forall.tptp).include(OMDOC/logics/proof_theory/Exists.tptp).include(OMDOC/logics/proof_theory/Equal.tptp).include(OMDOC/logics/proof_theory/TNDEq.tptp).

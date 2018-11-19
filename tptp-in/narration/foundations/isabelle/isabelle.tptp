@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/foundations/isabelle/Pure.tptp).include(//latin.omdoc.org/foundations/isabelle/HOL.tptp).
+include(OMDOC/foundations/isabelle/Pure.tptp).include(OMDOC/foundations/isabelle/HOL.tptp).

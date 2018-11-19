@@ -1,2 +1,2 @@
 include(Universe.tptp).
-thf('http://latin.omdoc.org/math?Relation?r',type,'http://latin.omdoc.org/math?Relation?r' : ('http://latin.omdoc.org/math?Universe?u' > ('http://latin.omdoc.org/math?Universe?u' > $tType))).
+thf('OMDOC/math?Relation?r',type,'OMDOC/math?Relation?r' : ('OMDOC/math?Universe?u' > ('OMDOC/math?Universe?u' > $tType))).

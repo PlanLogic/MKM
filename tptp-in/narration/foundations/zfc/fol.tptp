@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/foundations/zfc/ZFC_FOL.tptp).
+include(OMDOC/foundations/zfc/ZFC_FOL.tptp).

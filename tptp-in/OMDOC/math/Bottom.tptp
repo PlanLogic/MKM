@@ -1,4 +1,4 @@
 include(Universe.tptp).
 include(Relation.tptp).
-thf('http://latin.omdoc.org/math?Bottom?bot',type,'http://latin.omdoc.org/math?Bottom?bot' : 'http://latin.omdoc.org/math?Universe?u').
-thf('http://latin.omdoc.org/math?Bottom?bound',type,'http://latin.omdoc.org/math?Bottom?bound' : !>[X:'http://latin.omdoc.org/math?Universe?u']: ((('http://latin.omdoc.org/math?Relation?r' @ 'http://latin.omdoc.org/math?Bottom?bot') @ X))).
+thf('OMDOC/math?Bottom?bot',type,'OMDOC/math?Bottom?bot' : 'OMDOC/math?Universe?u').
+thf('OMDOC/math?Bottom?bound',type,'OMDOC/math?Bottom?bound' : !>[X:'OMDOC/math?Universe?u']: ((('OMDOC/math?Relation?r' @ 'OMDOC/math?Bottom?bot') @ X))).

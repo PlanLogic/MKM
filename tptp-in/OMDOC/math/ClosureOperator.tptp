@@ -1,6 +1,6 @@
 include(logics/syntax/PowerSorts.tptp).
-thf('http://latin.omdoc.org/math?ClosureOperator?X',type,'http://latin.omdoc.org/math?ClosureOperator?X' : 'http://latin.omdoc.org/logics/syntax?BaseSFOL?sorts/[http://latin.omdoc.org/type_theories?Level\']/cl').
-thf('http://latin.omdoc.org/math?ClosureOperator?cl',type,'http://latin.omdoc.org/math?ClosureOperator?cl' : (('http://latin.omdoc.org/logics/syntax?BaseSFOL?sorts/[http://latin.omdoc.org/type_theories?Level\']/exp' @ $ERROR) > ('http://latin.omdoc.org/logics/syntax?BaseSFOL?sorts/[http://latin.omdoc.org/type_theories?Level\']/exp' @ $ERROR))).
-thf('http://latin.omdoc.org/math?ClosureOperator?extensive',type,'http://latin.omdoc.org/math?ClosureOperator?extensive' : $ERROR).
-thf('http://latin.omdoc.org/math?ClosureOperator?monotonous',type,'http://latin.omdoc.org/math?ClosureOperator?monotonous' : $ERROR).
-thf('http://latin.omdoc.org/math?ClosureOperator?idempotent',type,'http://latin.omdoc.org/math?ClosureOperator?idempotent' : !>[A:('http://latin.omdoc.org/logics/syntax?BaseSFOL?sorts/[http://latin.omdoc.org/type_theories?Level\']/exp' @ $ERROR)]: (('http://latin.omdoc.org/logics/syntax?Logic?ded' @ ((((('http://latin.omdoc.org/math?ClosureOperator?cl' @ ('http://latin.omdoc.org/math?ClosureOperator?cl' @ A)) @ $ERROR) @ $ERROR) @ 'http://latin.omdoc.org/math?ClosureOperator?cl') @ A)))).
+thf('OMDOC/math?ClosureOperator?X',type,'OMDOC/math?ClosureOperator?X' : 'OMDOC/logics/syntax?BaseSFOL?sorts/[OMDOC/type_theories?Level\']/cl').
+thf('OMDOC/math?ClosureOperator?cl',type,'OMDOC/math?ClosureOperator?cl' : (('OMDOC/logics/syntax?BaseSFOL?sorts/[OMDOC/type_theories?Level\']/exp' @ $ERROR) > ('OMDOC/logics/syntax?BaseSFOL?sorts/[OMDOC/type_theories?Level\']/exp' @ $ERROR))).
+thf('OMDOC/math?ClosureOperator?extensive',type,'OMDOC/math?ClosureOperator?extensive' : $ERROR).
+thf('OMDOC/math?ClosureOperator?monotonous',type,'OMDOC/math?ClosureOperator?monotonous' : $ERROR).
+thf('OMDOC/math?ClosureOperator?idempotent',type,'OMDOC/math?ClosureOperator?idempotent' : !>[A:('OMDOC/logics/syntax?BaseSFOL?sorts/[OMDOC/type_theories?Level\']/exp' @ $ERROR)]: (('OMDOC/logics/syntax?Logic?ded' @ ((((('OMDOC/math?ClosureOperator?cl' @ ('OMDOC/math?ClosureOperator?cl' @ A)) @ $ERROR) @ $ERROR) @ 'OMDOC/math?ClosureOperator?cl') @ A)))).

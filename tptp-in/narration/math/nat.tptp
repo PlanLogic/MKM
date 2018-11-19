@@ -1,1 +1,1 @@
-include(//latin.omdoc.org/math/Nat.tptp).include(//latin.omdoc.org/math/Recursion.tptp).include(//latin.omdoc.org/math/Addition.tptp).include(//latin.omdoc.org/math/Multiplication.tptp).include(//latin.omdoc.org/math/OrderedNat.tptp).
+include(OMDOC/math/Nat.tptp).include(OMDOC/math/Recursion.tptp).include(OMDOC/math/Addition.tptp).include(OMDOC/math/Multiplication.tptp).include(OMDOC/math/OrderedNat.tptp).

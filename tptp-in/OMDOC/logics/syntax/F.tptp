@@ -1,2 +1,2 @@
 include(DLBase.tptp).
-thf('http://latin.omdoc.org/logics/syntax?F?functional',type,'http://latin.omdoc.org/logics/syntax?F?functional' : ('http://latin.omdoc.org/logics/syntax?DLBase?role' > $tType)).
+thf('OMDOC/logics/syntax?F?functional',type,'OMDOC/logics/syntax?F?functional' : ('OMDOC/logics/syntax?DLBase?role' > $tType)).
